@@ -64,3 +64,12 @@ footer {
 #contact {
     font-size:90%;
 }
+
+label {
+    display: block;
+}
+
+input, textarea {
+    display: block;
+    margin-bottom: 20px;
+}
